@@ -4,10 +4,11 @@ Classification of whether there are exoplanets for stars from Kepler telescope d
 
 Trained by sklearn's model of perceptron in SGDClassifier
 
-
+```
 Confusion Matrix (train sample):
  [[5050    0]
  [   0 5050]]
 Confusion Matrix (test sample):
  [[564   1]
  [  0   5]]
+```
