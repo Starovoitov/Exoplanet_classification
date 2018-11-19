@@ -1,5 +1,5 @@
 # Exoplanets_prediction
-Classification of whether there are exoplanets for stars from Kepler telescope data
+Classification of whether there are exoplanets for stars against Kepler telescope data
 (taken from https://www.kaggle.com/keplersmachines/kepler-labelled-time-series-data)
 
 Trained by sklearn's model of perceptron in SGDClassifier
